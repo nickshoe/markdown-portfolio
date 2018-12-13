@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Nick Shoe after the haircut in Palma de Mallorca](https://avatars1.githubusercontent.com/u/32668766?s=460&v=4)
